@@ -70,3 +70,15 @@ borda = """
             </style>
             """
 st.markdown(borda, unsafe_allow_html=True)
+
+# ----------------------------------------------------------------------------------
+
+style2 = """
+            <style>
+            [Data-testid="stHeader"]
+            {
+            display: none;
+            }
+            </style>
+            """
+st.markdown(style2, unsafe_allow_html=True) 
