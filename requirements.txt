@@ -3,3 +3,4 @@ pandas
 pydeck
 folium
 mysql.connector
+streamlit_folium
